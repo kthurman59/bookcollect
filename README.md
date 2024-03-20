@@ -14,6 +14,7 @@ Scalability: Considerations for scalability and performance optimization.
 Security: Implementation of security best practices to ensure data privacy and prevent common web vulnerabilities.
 Testing: Unit tests for critical functionalities.
 Documentation: Comprehensive documentation covering API endpoints and usage.
+
 Getting Started
 Follow these steps to get the Book Collection project up and running on your local machine:
 
