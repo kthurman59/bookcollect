@@ -1,7 +1,10 @@
-Book Collection
-Welcome to the Book Collection project! This backend project focuses on managing a collection of books, showcasing essential backend development skills in a simplified domain.
+<h1>Book Collection</h1>
 
-Features
+<h2>Welcome to the Book Collection project!</h2> 
+
+This backend project focuses on managing a collection of books, showcasing essential backend development skills in a simplified domain.
+
+<h3>Features</h3>
 Authentication: Secure user authentication system.
 Data Modeling and Management: Robust data model for books, authors, genres, and users.
 API Design: Well-designed RESTful API for CRUD operations on books, authors, and genres.
